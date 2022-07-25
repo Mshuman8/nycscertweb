@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.course {
+  margin: 60px;
+  padding: 60px;
+  border: solid;
+  border-width: 5px;
+}
+
+#bolded {
+  font-family: 'Koulen', cursive;
+  font-size: 100px;
+  line-height: 50%;
+}
+
+.title {
+  padding: 60px;
+  background-color: #c5edb0;
+}
+
+.programming {
+  background-color: #9BD0C0 ;
+  border-color: #44A386;
+}
+
+.ds {
+  background-color: #C5EDB0 ;
+  border-color: #86D75A;
+}
+
+.methods {
+  background-color: #EAF9B9 ;
+  border-color: #CDEC62;
+}
+
+.flex {
+  background-color: #c5edb0;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  height: 200px;
+}
+
+.imgFlex {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
